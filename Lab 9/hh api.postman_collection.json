@@ -1,0 +1,60 @@
+{
+	"info": {
+		"_postman_id": "54f95ab5-036c-4184-8673-00d21ce473dd",
+		"name": "hh api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "43796372",
+		"_collection_link": "https://suleimenmadi.postman.co/workspace/Suleimen-Madi's-Workspace~7262f873-029d-4eac-88c1-303ec5a7ed89/collection/43796372-54f95ab5-036c-4184-8673-00d21ce473dd?action=share&source=collection_link&creator=43796372"
+	},
+	"item": [
+		{
+			"name": "Get Company by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Companies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8000/api/companies/"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Vacancies by Company",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Vacancies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Top 10 Vacancies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Vacancy by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
